@@ -3,4 +3,4 @@
 
 ## Reporting a Vulnerability
 
-You can write an issue, but I don't answer you :3.
+You can write an issue, but I won't answer you :3.
